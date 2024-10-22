@@ -1,12 +1,12 @@
-<h3 align="center"><Hello World /></h3>
+<h3 align="left">Erik Prado de Castro</h3>
 
 ###
 
-<h3 align="center">Erik Prado de Castro</h3>
+<p align="left">Desenvolvedor Front-End - Freelancer</p>
 
 ###
 
-<p align="center">Desenvolvedor Front-End - Freelancer</p>
+<p align="left"></p>
 
 ###
 
@@ -15,6 +15,10 @@
 ###
 
 <p align="left">Priorizo um desenvolvimento de código limpo. com fácil manutenção, qualidade e sustentabilidade nos projetos, com aplicações responsivas assegurando uma experiência excepcional para o usuário.</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -40,6 +44,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">Redes Sociais:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/erikpradodev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:erikpcdev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
